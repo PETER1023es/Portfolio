@@ -1,4 +1,2 @@
-## Read Me ##
-
-~ We ~
+# Read Me #
 
