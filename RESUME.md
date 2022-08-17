@@ -1,6 +1,4 @@
 # My Resume
-This is my resume for the intro to softwere technologys from [Mcintosh High School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ## About me ##
 - My name is Calvin Goldman
 - I am 14 years old
