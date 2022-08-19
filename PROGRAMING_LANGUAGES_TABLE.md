@@ -1,6 +1,6 @@
 # Programing Languages #
 
-| Programing langGUAGES | Second Header |
-| --------------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Programing languages | Creator |
+| -------------------- | ------- |
+| Content Cell         | Content Cell   |
+| Content Cell         | Content Cell   |
